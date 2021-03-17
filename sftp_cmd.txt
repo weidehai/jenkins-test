@@ -1,2 +1,3 @@
 cd /home/weidehai 
+mkdir jenkins-test 
 put README.md ./ 
