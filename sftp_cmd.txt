@@ -1,0 +1,2 @@
+cd /home/weidehai 
+put README.md ./ 
