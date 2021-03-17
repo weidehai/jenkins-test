@@ -1,0 +1,9 @@
+Host weidehai
+    HostName 47.100.50.242
+    User weidehai
+    IdentityFile .ssh/weidehai_aliserver
+	
+Host github.com
+    HostName 192.30.255.113
+    User git
+    IdentityFile .ssh/github_weidehai
