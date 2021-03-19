@@ -1,9 +1,0 @@
-cd jenkins-test 
-cd jenkins-test 
-cd jenkins-test 
-cd jenkins-test 
-cd jenkins-test 
-cd jenkins-test 
-cd jenkins-test 
-cd jenkins-test 
-cd jenkins-test 

@@ -1,9 +1,0 @@
-Host weidehai
-    HostName 47.100.50.242
-    User weidehai
-    IdentityFile e:\data\jenkins-test\weidehai_aliserver
-	
-Host github.com
-    HostName 192.30.255.113
-    User git
-    IdentityFile github_weidehai
